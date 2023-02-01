@@ -1,0 +1,9 @@
+﻿  CrossTheRoad.cpp
+C:\Users\Глеб\source\repos\CrossTheRoad\CrossTheRoad.cpp(81,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Глеб\source\repos\CrossTheRoad\CrossTheRoad.cpp(175,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  1 of 191 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  CrossTheRoad.vcxproj -> C:\Users\Глеб\source\repos\CrossTheRoad\Release\CrossTheRoad.exe
